@@ -1,0 +1,151 @@
+.template{
+    width: 750px;
+    height: 1100px;
+    margin: auto;
+    border: 2px solid black;
+    box-shadow: 5PX 5PX 20PX rgb(88, 85, 85);
+}
+.top{
+    height: 180px;
+    background-image: linear-gradient(rgb(91, 255, 91),white);
+}
+#name{
+    margin-top: 0px;
+    margin-bottom: 6px;
+    margin-left: 14px;
+    margin-right: 400px;
+}
+#image{
+    margin-top: -37px;
+    margin-right: 8px;
+    float: right;
+}
+.address{
+    width: 550px;
+    height: 120px;
+    float: left;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.commun{
+    margin-left: 25px;
+    margin-top: -28px;
+}
+.iconsection{
+    margin-top: 11px;
+}
+.links{
+    text-decoration: none;
+    vertical-align: top;
+    font-size: medium;
+}
+#phoneicon{
+    margin-left: 110px;
+}
+.bottom{
+    margin: 14px;
+}
+#heading{
+    display: inline-block;
+    margin-top: 10px;
+}
+.line-1{
+    width: 500px;
+    height: 0px;
+    border: 1px solid black;
+    margin-left: 200px;
+    margin-top: -30px;
+}
+.COicon{
+    float: right;
+    margin-top: -15px;
+}
+.line-2{
+    width: 402px;
+    height: 0px;
+    border: 1px solid black;
+    margin-left: 290px;
+    margin-top: -30px;
+}
+.EQicon{
+    float: right;
+    margin-top: -15px;
+}
+.ACicon{
+    float: right;
+    margin-top: -15px;
+}
+.year{
+    float: right;
+    margin-right: 33px;
+}
+.percentage-1{
+    text-align: center;
+    padding-left: 160px;
+}
+.percentage-2{
+    text-align: center;
+    padding-left: 374px;
+}
+.percentage-3{
+    text-align: center;
+    padding-left: 359px;
+}
+.line-3{
+    width: 510px;
+    height: 0px;
+    border: 1px solid black;
+    margin-left: 190px;
+    margin-top: -30px;
+}
+.TSicon{
+    float: right;
+    margin-top: -15px;
+}
+.line-4{
+    width: 540px;
+    height: 0px;
+    border: 1px solid black;
+    margin-left: 160px;
+    margin-top: -30px;
+}
+.line-5{
+    width: 580px;
+    height: 0px;
+    border: 1px solid black;
+    margin-left: 120px;
+    margin-top: -30px;
+}
+.STicon{
+    float: right;
+    margin-top: -15px;
+}
+.line-6{
+    width: 610px;
+    height: 0px;
+    border: 1px solid black;
+    margin-left: 90px;
+    margin-top: -30px;
+}
+.PTicon{
+    float: right;
+    margin-top: -15px;
+}
+.brick{
+margin-left: 24px;
+}
+.line-7{
+    width: 570px;
+    height: 0px;
+    border: 1px solid black;
+    margin-left: 145px;
+    margin-top: -30px;
+}
+.DLicon{
+    float: right;
+    margin-top: -15px;
+}
+#sign{
+    margin-top: -49px;
+    margin-left: 590px;
+}
