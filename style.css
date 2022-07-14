@@ -7,7 +7,7 @@
 }
 .top{
     height: 180px;
-    background-image: linear-gradient(rgb(91, 255, 91),white);
+    /* background-image: linear-gradient(rgb(91, 255, 91),white); */
 }
 #name{
     margin-top: 0px;
